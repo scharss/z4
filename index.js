@@ -163,7 +163,7 @@ function alerta() {
 }
 
 function restear() {
-    location.href = 'https://scharss.github.io/z3/'
+    location.href = 'https://scharss.github.io/z4/'
 
 }
 
